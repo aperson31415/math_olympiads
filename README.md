@@ -5,8 +5,11 @@ Past papers for most competitions
 Books to help
 ## Proofs
 I will just add random stuff here that I'm interested
+## Programs
+Has various maths programs mostly in python, might have to install some packages with pip
 ## Random stuff
-Like calculus, googology and maybe a bunch of silly things
+Like calculus, googology and other topics
+Includes some bad-quality books
 ## MO App.py
 You need python for this application.
 To use this, make a new folder in your computer, and add the "images" file.
