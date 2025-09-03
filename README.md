@@ -12,7 +12,7 @@ Also, for a more comprehensive list: [click here](#https://artofproblemsolving.c
 To use `MO APP.py`, you need to first have python, or cython. Then put all competition folders (without parent folders like 'Australia') into the same subdirectory as the app, and add all books in a separate folder, also in the same directory
 
 # Section Notes
-This repo is divided into a few sections:
+This repo is divided into a few sections (I'm too lazy to add the books, and some British olympiads, mostly the weird MOs and Kangaroos):
 1. Australian / Oceania Olympiads
    - AIMO
    - AMO
