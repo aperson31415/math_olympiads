@@ -6,7 +6,7 @@ Additionally, I have excluded lots of books, either because they are paid, or th
 
 Additionally, simpler contests such as Math Kangaroo, AMC, KSF and others are excluded from this repo because they are too simple, and if you are at this level and know about them, just ask your teacher for some past questions.
 
-Also, for a more comprehensive list: [click here](#https://artofproblemsolving.com/community/c13_contest_collections). However, this list doesnt' include Australian Olympiads, Books, or British Olypiads, however AoPS does have scattered books everywhere
+Also, for a more comprehensive list: [click here](https://artofproblemsolving.com/community/c13_contest_collections). However, this list doesnt' include Australian Olympiads, Books, or British Olypiads, however AoPS does have scattered books everywhere
 
 ## App Notes
 To use `MO APP.py`, you need to first have python, or cython. Then put all competition folders (without parent folders like 'Australia') into the same subdirectory as the app, and add all books in a separate folder, also in the same directory
