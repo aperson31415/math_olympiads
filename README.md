@@ -6,6 +6,8 @@ Additionally, I have excluded lots of books, either because they are paid, or th
 
 Additionally, simpler contests such as Math Kangaroo, AMC, KSF and others are excluded from this repo because they are too simple, and if you are at this level and know about them, just ask your teacher for some past questions.
 
+Also, for a more comprehensive list: [click here](#https://artofproblemsolving.com/community/c13_contest_collections). However, this list doesnt' include Australian Olympiads, Books, or British Olypiads, however AoPS does have scattered books everywhere
+
 ## App Notes
 To use `MO APP.py`, you need to first have python, or cython. Then put all competition folders (without parent folders like 'Australia') into the same subdirectory as the app, and add all books in a separate folder, also in the same directory
 
@@ -25,23 +27,14 @@ This repo is divided into a few sections:
    - SMC
    - Kangaroos
    - Cayley, Hamilton, Maclaurin MO's
-3. American Olympiads
-   - AIME
-   - USAJMO
-   - USAMO
-   - AMC 10 & 12
-4. Other Olympiads / Problems
-   - Chinese (translated)
-   - USSR (translated)
-   - Assorted Problems
-5. International Olympiads
-   - IMO
-   - TT
-   - Putnam?
-6. Books
+3. Books
    - General / Problem Solving / Proofs
    - NT
    - Combinatorics
    - Geometry
    - Algebra
    - Other
+4. Other
+   - Random problems and stuff
+
+PS: American, Chinese, Russian, International Olympiads are available at the AoPS link above, so not included here
