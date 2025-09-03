@@ -30,10 +30,18 @@ This repo is divided into a few sections:
    - USAJMO
    - USAMO
    - AMC 10 & 12
-4. Other Olympiads
+4. Other Olympiads / Problems
    - Chinese (translated)
    - USSR (translated)
+   - Assorted Problems
 5. International Olympiads
    - IMO
    - TT
    - Putnam?
+6. Books
+   - General / Problem Solving / Proofs
+   - NT
+   - Combinatorics
+   - Geometry
+   - Algebra
+   - Other
