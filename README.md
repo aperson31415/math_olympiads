@@ -1,12 +1,15 @@
 # Mathematical Olympiads
 
-## Rework Notes
-Due to the immense number of resources I have found (more to be added in the coming days), this repo now ONLY includes Mathematical Olympiads.
-Additionally, I have excluded lots of books, either because they are paid, or there are similar books covering almost exactly the same content.
+## Rework Notes - I
+I might include some AMC problems here
 
-Additionally, simpler contests such as Math Kangaroo, AMC, KSF and others are excluded from this repo because they are too simple, and if you are at this level and know about them, just ask your teacher for some past questions.
+Also, for a more comprehensive list: [click here](https://artofproblemsolving.com/community/c13_contest_collections). However, this list doesnt' include Australian Olympiads, however AoPS does have scattered books everywhere
 
-Also, for a more comprehensive list: [click here](https://artofproblemsolving.com/community/c13_contest_collections). However, this list doesnt' include Australian Olympiads, Books, or British Olypiads, however AoPS does have scattered books everywhere
+There are also some more books I have found online.
+
+## Rework Notes - II
+There is a new folder called information which has info about some competitions and topics and links etc.
+I will try make some .mp4 manim animations to explain some topics as well
 
 ## App Notes
 To use `MO APP.py`, you need to first have python, or cython. Then put all competition folders (without parent folders like 'Australia') into the same subdirectory as the app, and add all books in a separate folder, also in the same directory
