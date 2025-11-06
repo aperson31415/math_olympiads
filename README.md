@@ -10,31 +10,3 @@ Also, for a more comprehensive list: [click here](https://artofproblemsolving.co
 
 ## App Notes
 To use `MO APP.py`, you need to first have python, or cython. Then put all competition folders (without parent folders like 'Australia') into the same subdirectory as the app, and add all books in a separate folder, also in the same directory
-
-# Section Notes
-This repo is divided into a few sections (I'm too lazy to add the books, and some British olympiads, mostly the weird MOs and Kangaroos):
-1. Australian / Oceania Olympiads
-   - AIMO
-   - AMO
-   - APMO
-   - SMC
-   - WAJO
-   - Math Enrichment Exerpts
-   - Problemo
-2. British Olypiads
-   - JMO
-   - BMO
-   - SMC
-   - Kangaroos
-   - Cayley, Hamilton, Maclaurin MO's
-3. Books
-   - General / Problem Solving / Proofs
-   - NT
-   - Combinatorics
-   - Geometry
-   - Algebra
-   - Other
-4. Other
-   - Random problems and stuff
-
-PS: American, Chinese, Russian, International Olympiads are available at the AoPS link above, so not included here
