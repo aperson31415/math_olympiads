@@ -8,7 +8,6 @@ Also, for a more comprehensive list: [click here](https://artofproblemsolving.co
 There are also some more books I have found online.
 
 ## Rework Notes - II
-There is a new folder called information which has info about some competitions and topics and links etc.
 I will try make some .mp4 manim animations to explain some topics as well
 
 ## App Notes
