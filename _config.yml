@@ -1,0 +1,7 @@
+# hello there again
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      static: true

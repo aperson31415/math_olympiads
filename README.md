@@ -2,6 +2,7 @@
 
 ## \[Notes\]
 New resource recently came out! [USAMO Guide](usamoguide.org)
+
 This, year they are adding the _ATT_ 1 and 2, and AMO now has a _Summer_, _Winter_, and _Final_ Version, and SMC is going to be removed, and most other things are going to be staying the same.
 
 ## Rework Notes - I
