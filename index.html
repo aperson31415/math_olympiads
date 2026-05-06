@@ -132,7 +132,7 @@
         const repoName = window.location.pathname.split('/').filter(p => p)[0];
         
         // Remove repo name from path if it's there
-        if (pathParts[0] === repoNam7e) pathParts.shift();
+        if (pathParts[0] === repoName) pathParts.shift();
         const finalPath = pathParts.join('/');
 
         document.getElementById('file-title').innerText = name;
