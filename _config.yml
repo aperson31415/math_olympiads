@@ -1,5 +1,3 @@
-# hello there again
-
 defaults:
   - scope:
       path: ""
